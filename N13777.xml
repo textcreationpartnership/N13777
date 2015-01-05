@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:017410_0000_0FA114FE0F4F3850"/>
-            <pb facs="tcp:017410_0001_0FA114FF53BE8120" rendition="simple:additions"/>
+            <pb facs="unknown:017410_0000_0FA114FE0F4F3850"/>
+            <pb facs="unknown:017410_0001_0FA114FF53BE8120"
+                rendition="simple:additions"/>
             <opener>
                <dateline>IN COUNCIL, <date>January 19. 1781.</date>
                </dateline>
